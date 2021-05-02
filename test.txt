@@ -1,0 +1,1 @@
+-- test.py , testdb.py ve data.sqlite dosyaları sadece SQL denemesi için kullanılmıştır. Silinebilir !!

@@ -1,0 +1,10 @@
+env da python yazılır ve python açılıp şu işlemler yapılır.
+-- from Clean import db
+-- db.create_all()
+-- exit()
+
+check etmek için : 
+env da python yazılır ve python açılıp şu işlemler yapılır.
+-- from Clean.models import User
+-- print(User.query.first())
+-- exit()
